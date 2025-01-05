@@ -1,8 +1,8 @@
-# Mortgage Probability of Default Prediction Using GBM/XGBoost and Deep Learning
+# Mortgage Probability of Default Prediction Using GBM and Deep Learning
 
 ## Assignment Overview
 This project involves predicting the **probability of mortgage default** using two machine learning models:
-1. **Gradient Boosting Machine (GBM) or XGBoost**
+1. **Gradient Boosting Machine (GBM)**
 2. **Deep Learning Model**
 
 The analysis includes hyperparameter tuning for both models to optimize performance and improve precision. Class imbalance is addressed using the `balance_classes` parameter, and model evaluation is conducted using **ROC**, **Cumulative Lift**, and **Precision-Recall** metrics.
