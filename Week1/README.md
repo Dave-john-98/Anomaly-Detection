@@ -19,7 +19,7 @@ This project demonstrates time-series analysis techniques using a selected free 
 
 ## Methods and Tools
 
-- **Dataset:** [Provide a description of the dataset used, including its source.]
+- **Dataset:** [Power Consumption Data (Hourly)]
 - **Libraries Used:**
   - `Pandas` for data manipulation.
   - `Matplotlib` for visualizations.
